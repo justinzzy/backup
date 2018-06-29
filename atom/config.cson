@@ -1,0 +1,20 @@
+"*":
+  core:
+    disabledPackages: [
+      "markdown-preview"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "oceanic-next"
+    ]
+  editor:
+    fontSize: 12
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "7d169f84-40f3-4667-90f9-39ac0307ab14"
+  minimap: {}
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
