@@ -8,6 +8,7 @@ emmet@2.4.3
 ex-mode@0.18.0
 file-icons@2.1.21
 isotope-light-ui@2.3.0
+last-cursor-position@0.9.2
 markdown-preview-plus@3.3.1
 minimap@4.29.8
 northem-light-atom-ui@2.1.1
@@ -16,5 +17,6 @@ open-in-browser@0.5.2
 pigments@0.40.2
 platformio-ide-terminal@2.8.3
 relative-numbers@0.9.0
+split-diff@1.5.2
 vim-mode@0.66.0
 
